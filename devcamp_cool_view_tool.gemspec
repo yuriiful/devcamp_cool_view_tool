@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Yurii Fulmes"]
   spec.email         = ["yuriifu@tahometer.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Summary text.}
+  spec.description   = %q{Description text.}
+  spec.homepage      = "https://github.com/yuriiful/devcamp_cool_view_tool"
   spec.license       = "MIT"
 
 
